@@ -1,0 +1,10 @@
+1--> Create c:\databases foler in c:
+
+2-->Open 1st cmd and goto "  cd C:\Program Files\MongoDB\Server\4.0\bin  " 
+
+3-->Run this cmd on 1st cmd  " mongod.exe --dbpath "c:\databases" "
+
+4-->Goto 2nd cmd and run " mongod.exe or mongo "
+
+5-->Goto 3rd cmd for import jason file run this cmd " mongoimport  --db primaryDB --collection emp --file "E:\emp.json"  "
+
