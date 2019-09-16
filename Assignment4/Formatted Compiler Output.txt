@@ -1,0 +1,17 @@
+Z:\C\Extra\25.cpp	In function 'int main()':
+46	30	Z:\C\Extra\25.cpp	[Warning] deprecated conversion from string constant to 'char*' [-Wwrite-strings]
+60	10	Z:\C\Extra\25.cpp	[Error] 'n' was not declared in this scope
+62	9	Z:\C\Extra\25.cpp	[Error] 'i' was not declared in this scope
+64	6	Z:\C\Extra\25.cpp	[Error] 'arr' was not declared in this scope
+72	5	Z:\C\Extra\25.cpp	[Error] 'arr' was not declared in this scope
+90	16	Z:\C\Extra\25.cpp	[Error] too few arguments to function 'void exit(int)'
+66	0	C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\include\pthread.h	In file included from C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include/pthread.h
+34		C:\Program Files (x86)\Dev-Cpp\MinGW64\lib\gcc\x86_64-w64-mingw32\4.9.2\include\c++\x86_64-w64-mingw32\bits\gthr-default.h	                 from C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32/bits/gthr-default.h
+148		C:\Program Files (x86)\Dev-Cpp\MinGW64\lib\gcc\x86_64-w64-mingw32\4.9.2\include\c++\x86_64-w64-mingw32\bits\gthr.h	                 from C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/x86_64-w64-mingw32/bits/gthr.h
+35		C:\Program Files (x86)\Dev-Cpp\MinGW64\lib\gcc\x86_64-w64-mingw32\4.9.2\include\c++\ext\atomicity.h	                 from C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/ext/atomicity.h
+39		C:\Program Files (x86)\Dev-Cpp\MinGW64\lib\gcc\x86_64-w64-mingw32\4.9.2\include\c++\bits\ios_base.h	                 from C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/bits/ios_base.h
+42		C:\Program Files (x86)\Dev-Cpp\MinGW64\lib\gcc\x86_64-w64-mingw32\4.9.2\include\c++\ios	                 from C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/ios
+38		C:\Program Files (x86)\Dev-Cpp\MinGW64\lib\gcc\x86_64-w64-mingw32\4.9.2\include\c++\ostream	                 from C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/ostream
+39		C:\Program Files (x86)\Dev-Cpp\MinGW64\lib\gcc\x86_64-w64-mingw32\4.9.2\include\c++\iostream	                 from C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++/iostream
+1		Z:\C\Extra\25.cpp	                 from Z:\C\Extra\25.cpp
+36	32	C:\Program Files (x86)\Dev-Cpp\MinGW64\x86_64-w64-mingw32\include\process.h	[Note] declared here
